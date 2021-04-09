@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there! :wave:
 
-<!--
-**uzantonomon/uzantonomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is *Diogo Ferreira*. I’m a Linux System Administrator from Lisbon, Portugal. 🇵🇹
 
-Here are some ideas to get you started:
+## Interests
+AWS, Ansible, Infrastructure as code, Linux. I also like to play somes games, going to the gym and cooking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+
+<table>
+<thead>
+  <tr>
+    <th>:notebook_with_decorative_cover: Writing</th>
+    <th>:link: Contact</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://diogoferreira.pt">Website</a></li>
+      </ul>
+    </td>
+    <td>
+     <ul> 
+       <li><a href="https://www.linkedin.com/in/diogoferreirapt/">LinkedIn</a></li>
+       <li><a href="https://twitter.com/uzantonomon">Twitter</a></li>
+      </ul>
+    </td>
+  </tr>
+</tbody>
+</table>
