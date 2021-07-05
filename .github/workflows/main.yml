@@ -10,5 +10,5 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "4"
-                feed_list: "https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2fdiogoferreira.pt%2frss%2f"
+                max_post_count: "3"
+                feed_list: "https://diogoferreira.pt/rss"
