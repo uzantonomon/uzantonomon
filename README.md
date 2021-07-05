@@ -2,11 +2,11 @@
 <h2align="left">I'm a Linux System Administrator from Lisbon, Portugal. 🇵🇹</h2>
 <p>I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experienced in communicating with technical and non-technical people, adept of automation. Dedicated, focused and organized professional with the ability to adapt to new challenges. Always looking to improve.</p>
 
-- 📝 I regularly write articles on [https://diogoferreira.pt](https://diogoferreira.pt)
+- 📝 Sometimes I write articles on [https://diogoferreira.pt](https://diogoferreira.pt)
 
-- 📫 How to reach me **dferreira [at] diogoferreira [dot] pt**
+- 📫 You can reach me at **dferreira [at] diogoferreira [dot] pt**
 
-- 📄 Know about my experiences [https://github.com/uzantonomon/resume/blob/main/resume-en.md](https://github.com/uzantonomon/resume/blob/main/resume-en.md)
+- 📄 Check out my CV [https://github.com/uzantonomon/resume/blob/main/resume-en.md](https://github.com/uzantonomon/resume/blob/main/resume-en.md)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
