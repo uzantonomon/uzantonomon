@@ -10,6 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to embed GitHub Gists on a Ghost blog](https://diogoferreira.pt/how-to-embed-github-gists-on-a-ghost-blog/)
+- [Remove a host from BackupPC](https://diogoferreira.pt/remove-a-host-from-backuppc/)
+- [Open XFCE menu with the Windows key on Xubuntu 20.10](https://diogoferreira.pt/open-xfce-menu-with-the-windows-key-on-xubuntu-20-10/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
