@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://diogoferreira.pt](https://diogoferreira.pt)
 
-- 📫 How to reach me **dferreira@diogoferreira.pt**
+- 📫 How to reach me **dferreira [at] diogoferreira [dot] pt**
 
 - 📄 Know about my experiences [https://github.com/uzantonomon/resume/blob/main/resume-en.md](https://github.com/uzantonomon/resume/blob/main/resume-en.md)
 
