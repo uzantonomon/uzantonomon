@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Diogo Ferreira.</h1>
 <h2align="left">I'm a Linux System Administrator from Lisbon, Portugal. 🇵🇹</h2>
-I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experienced in communicating with technical and non-technical people, adept of automation. Dedicated, focused and organized professional with the ability to adapt to new challenges. Always looking to improve.
+<p>I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experienced in communicating with technical and non-technical people, adept of automation. Dedicated, focused and organized professional with the ability to adapt to new challenges. Always looking to improve.</p>
 
 - 📝 I regularly write articles on [https://diogoferreira.pt](https://diogoferreira.pt)
 
