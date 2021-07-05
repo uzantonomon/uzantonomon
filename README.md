@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo Ferreira, a Linux System Administrator from Lisbon, Portugal. 🇵🇹</h1>
-<h3 align="center">I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experienced in communicating with technical and non-technical people, adept of automation. Dedicated, focused and organized professional with the ability to adapt to new challenges. Always looking to improve.</h3>
+I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experienced in communicating with technical and non-technical people, adept of automation. Dedicated, focused and organized professional with the ability to adapt to new challenges. Always looking to improve.
 
 <p align="left"> <a href="https://twitter.com/uzantonomon" target="blank"><img src="https://img.shields.io/twitter/follow/uzantonomon?logo=twitter&style=for-the-badge" alt="uzantonomon" /></a> </p>
 
