@@ -30,3 +30,38 @@ AWS, Ansible, Infrastructure as code, Linux. I also like to play somes games, go
   </tr>
 </tbody>
 </table>
+
+<h1 align="center">Hi 👋, I'm Diogo Ferreira</h1>
+<h3 align="center">I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experienced in communicating with technical and non-technical people, adept of automation. Dedicated, focused and organized professional with the ability to adapt to new challenges. Always looking to improve.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzantonomon" alt="uzantonomon" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/uzantonomon" target="blank"><img src="https://img.shields.io/twitter/follow/uzantonomon?logo=twitter&style=for-the-badge" alt="uzantonomon" /></a> </p>
+
+- 📝 I regularly write articles on [https://diogoferreira.pt](https://diogoferreira.pt)
+
+- 📫 How to reach me **dferreira@diogoferreira.pt**
+
+- 📄 Know about my experiences [https://github.com/uzantonomon/resume/blob/main/resume-en.md](https://github.com/uzantonomon/resume/blob/main/resume-en.md)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/uzantonomon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzantonomon" height="30" width="40" /></a>
+<a href="/https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2fdiogoferreira.pt%2frss%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://feedly.com/i/subscription/feed%2fhttps%3a%2f%2fdiogoferreira.pt%2frss%2f" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dferreira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dferreira" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzantonomon&show_icons=true&locale=en&layout=compact" alt="uzantonomon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzantonomon&show_icons=true&locale=en" alt="uzantonomon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzantonomon&" alt="uzantonomon" /></p>
