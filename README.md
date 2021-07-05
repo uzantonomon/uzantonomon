@@ -1,46 +1,11 @@
-# Hi there! :wave:
-
-My name is *Diogo Ferreira*. I’m a Linux System Administrator from Lisbon, Portugal. 🇵🇹
-
-## Interests
-AWS, Ansible, Infrastructure as code, Linux. I also like to play somes games, going to the gym and cooking.
-
-## Links
-
-<table>
-<thead>
-  <tr>
-    <th>:notebook_with_decorative_cover: Writing</th>
-    <th>:link: Contact</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <ul>
-        <li><a href="https://diogoferreira.pt">Website</a></li>
-      </ul>
-    </td>
-    <td>
-     <ul> 
-       <li><a href="https://www.linkedin.com/in/diogoferreirapt/">LinkedIn</a></li>
-       <li><a href="https://twitter.com/uzantonomon">Twitter</a></li>
-      </ul>
-    </td>
-  </tr>
-</tbody>
-</table>
-
-<h1 align="center">Hi 👋, I'm Diogo Ferreira</h1>
+<h1 align="center">Hi 👋, I'm Diogo Ferreira, a Linux System Administrator from Lisbon, Portugal. 🇵🇹</h1>
 <h3 align="center">I'm a self-taught Linux user, administrator and enthusiast. Fast learner, experienced in communicating with technical and non-technical people, adept of automation. Dedicated, focused and organized professional with the ability to adapt to new challenges. Always looking to improve.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzantonomon" alt="uzantonomon" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/uzantonomon" target="blank"><img src="https://img.shields.io/twitter/follow/uzantonomon?logo=twitter&style=for-the-badge" alt="uzantonomon" /></a> </p>
 
 - 📝 I regularly write articles on [https://diogoferreira.pt](https://diogoferreira.pt)
 
-- 📫 How to reach me **dferreira@diogoferreira.pt**
+- 📫 How to reach me **dferreira [at] diogoferreira [dot] pt**
 
 - 📄 Know about my experiences [https://github.com/uzantonomon/resume/blob/main/resume-en.md](https://github.com/uzantonomon/resume/blob/main/resume-en.md)
 
