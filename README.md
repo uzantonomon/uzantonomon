@@ -8,7 +8,7 @@
 
 - 📄 Check out my CV [https://github.com/uzantonomon/resume/blob/main/resume-en.md](https://github.com/uzantonomon/resume/blob/main/resume-en.md)
 
-### Blogs posts
+### Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to embed GitHub Gists on a Ghost blog](https://diogoferreira.pt/how-to-embed-github-gists-on-a-ghost-blog/)
 - [Remove a host from BackupPC](https://diogoferreira.pt/remove-a-host-from-backuppc/)
