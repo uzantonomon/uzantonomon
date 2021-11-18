@@ -6,7 +6,7 @@
 
 - 📫 You can reach me at **dferreira [at] diogoferreira [dot] pt**.
 
-- 💻 Check you my resume [here](https://github.com/uzantonomon/resume).
+- 💻 Check my resume [here](https://github.com/uzantonomon/resume).
 
 ### Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
