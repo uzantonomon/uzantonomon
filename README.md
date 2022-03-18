@@ -10,9 +10,9 @@
 
 ### Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to install Revelation on Ubuntu 20.04](https://diogoferreira.pt/how-to-install-revelation-on-ubuntu-20-04/)
 - [Como alterar o PIN do cartão Curve em Portugal 🇵🇹](https://diogoferreira.pt/como-alterar-o-pin-do-cartao-curve-em-portugal/)
 - [How to embed GitHub Gists on a Ghost blog](https://diogoferreira.pt/how-to-embed-github-gists-on-a-ghost-blog/)
-- [Remove a host from BackupPC](https://diogoferreira.pt/remove-a-host-from-backuppc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
