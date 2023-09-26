@@ -26,5 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uzantonomon&show_icons=true&locale=en&layout=compact" alt="uzantonomon" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=uzantonomon)] /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzantonomon&" alt="uzantonomon" /></p>
