@@ -10,9 +10,9 @@
 
 ### Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to restore a single file or folder in Thunar using Déjà Dup](https://diogoferreira.pt/how-to-restore-a-single-file-or-folder-in-thunar-using-deja-dup/)
-- [How to install Revelation on Ubuntu 20.04](https://diogoferreira.pt/how-to-install-revelation-on-ubuntu-20-04/)
-- [Como alterar o PIN do cartão Curve em Portugal 🇵🇹](https://diogoferreira.pt/como-alterar-o-pin-do-cartao-curve-em-portugal/)
+- [Logitech mouse scroll suddenly too slow on KDE](https://diogoferreira.pt/logitech-mouse-scroll-suddenly-too-slow-on-kde/)
+- [Remove Ubuntu Pro messages when using APT](https://diogoferreira.pt/remove-ubuntu-pro-messages-when-using-apt/)
+- [Bluetooth missing from Windows 11](https://diogoferreira.pt/bluetooth-missing-from-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
