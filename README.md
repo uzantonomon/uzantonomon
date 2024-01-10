@@ -10,9 +10,9 @@
 
 ### Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Galaxy Wearable app crashing on Android](https://diogoferreira.pt/samsung-galaxy-wearable-app-crashing-on-android/)
 - [Logitech mouse scroll suddenly too slow on KDE](https://diogoferreira.pt/logitech-mouse-scroll-suddenly-too-slow-on-kde/)
 - [Remove Ubuntu Pro messages when using APT](https://diogoferreira.pt/remove-ubuntu-pro-messages-when-using-apt/)
-- [Bluetooth missing from Windows 11](https://diogoferreira.pt/bluetooth-missing-from-windows-11/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
