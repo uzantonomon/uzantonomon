@@ -10,7 +10,7 @@
 
 ### Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
-- [How to include and exclude files from BackupPC using rsync](https://diogoferreira.pt/how-to-include-and-exclude-files-from-backuppc-using-rsync/)
+- [How to include and exclude files from BackupPC using rsync](https://diogoferreira.pt/how-to-include-and-exclude-folders-from-backuppc-using-rsync/)
 - [Samsung Galaxy Wearable app crashing on Android](https://diogoferreira.pt/samsung-galaxy-wearable-app-crashing-on-android/)
 - [Logitech mouse scroll suddenly too slow on KDE](https://diogoferreira.pt/logitech-mouse-scroll-suddenly-too-slow-on-kde/)
 <!-- BLOG-POST-LIST:END -->
