@@ -10,9 +10,9 @@
 
 ### Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to replace vim with neovim in Fedora 41](https://diogoferreira.pt/how-to-replace-vim-with-neovim-in-fedora-41/)
 - [Add repository on Fedora 41 with DNF5](https://diogoferreira.pt/add-repository-on-fedora-41-with-dnf5/)
 - [How to get VirtualBox working on Fedora 41 with KVM installed](https://diogoferreira.pt/how-to-get-virtualbox-working-on-fedora-41-with-kvm-installed/)
-- [How to include and exclude files and folders from BackupPC using rsync](https://diogoferreira.pt/how-to-include-and-exclude-files-and-folders-from-backuppc-using-rsync/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
