@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uzantonomon&show_icons=true" alt="uzantonomon" /></p>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=uzantonomon&" alt="uzantonomon" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=uzantonomon" alt="uzantonomon" /></p>
