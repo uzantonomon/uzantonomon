@@ -10,9 +10,9 @@
 
 ### Latest blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to send Proxmox notifications to ntfy with authentication](https://diogoferreira.pt/how-to-send-proxmox-notifications-to-ntfy-with-authentication/)
 - [How to replace vim with neovim in Fedora 41](https://diogoferreira.pt/how-to-replace-vim-with-neovim-in-fedora-41/)
 - [Add repository on Fedora 41 with DNF5](https://diogoferreira.pt/add-repository-on-fedora-41-with-dnf5/)
-- [How to get VirtualBox working on Fedora 41 with KVM installed](https://diogoferreira.pt/how-to-get-virtualbox-working-on-fedora-41-with-kvm-installed/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
